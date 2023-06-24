@@ -1,10 +1,10 @@
 # Sigma Token
 
-Sigma Token is a smart contract written in Solidity and JavaScript with sale system, account system and tests. You can edit this template to create your own smart contract.
+The Sigma Token is a smart contract developed using Solidity and JavaScript, incorporating features such as a sales system, account system, and test suite. You have the flexibility to modify this template according to your requirements and create your personalized smart contract.
 
-Install [Ganache](https://trufflesuite.com/ganache/) to run all the truffle commands
+To execute all the Truffle commands effectively, it is recommended to install [Ganache](https://trufflesuite.com/ganache/.
 
-Create a workspace in Ganache and start that workspace. Then keep Ganache running while you are working on your Truffle project. 
+Begin by creating a workspace in Ganache and initiating it. Ensure that Ganache remains operational while you work on your Truffle project.
 
 # Install Truffle
 
